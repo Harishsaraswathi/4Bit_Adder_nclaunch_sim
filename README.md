@@ -168,7 +168,7 @@ i.e Cadence IES command for compile: ncverilog +access+rwc -compile fa.v
 
 ### Fig 9: Elaboration Launch Option
 
-![Screenshot (293)](https://github.com/user-attachments/assets/8b630d6f-bca6-478a-9d7c-621b1298d0c9)
+![Screenshot (292)](https://github.com/user-attachments/assets/34b5923d-868e-4978-bd68-a778c8f6debe)
 
 ## Step 3: Simulation: – Simulate with the given test vectors over a period of time to observe the output behaviour. 
 
